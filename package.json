@@ -1,0 +1,22 @@
+{
+  "name": "dht11display",
+  "version": "1.0.0",
+  "description": "A simple project to read temperature and humidity data from Arduino DHT11 sensor and dispaly them in readable format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sharuchakalaka7/DHT11Dispaly.git"
+  },
+  "keywords": [
+    "Arduino"
+  ],
+  "author": "Ahmed Shahriar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharuchakalaka7/DHT11Dispaly/issues"
+  },
+  "homepage": "https://github.com/Sharuchakalaka7/DHT11Dispaly#readme"
+}
